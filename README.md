@@ -1,5 +1,3 @@
-# Sentiment-Analysis-on-Movie-Reviews-using-NLP
-
 ### Overview
 Developed a machine learning model to predict sentiment (positive/negative) using NLP techniques from movie trailer comments. The goal is to provide real-time sentiment analysis for movie studios and OTT platforms to enhance marketing strategies.
 
