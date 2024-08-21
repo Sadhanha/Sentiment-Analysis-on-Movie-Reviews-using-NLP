@@ -24,6 +24,6 @@ Language: Python (Pandas, NumPy, Scikit-Learn, Matplotlib)
 - Models: Logistic Regression, SVM, Random Forest.
 - Evaluation: Accuracy, F1 score, precision, recall.
 
-### Performance 
+### Results 
 TF-IDF with Logistic Regression was the most effective model, yielding 86% accuracy.
 
